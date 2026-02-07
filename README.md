@@ -2,7 +2,7 @@
 
 **A multi-stage NLP system that classifies news articles using DistilBERT and explains detected bias using Generative AI.**
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/brandynewanek/News-Topic-Bias-Analysis/blob/main/NLP_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/brandynewanek/News-Topic-Bias-Analysis/blob/main/NLP_Analysis.ipynb)
 
 ## 📰 Project Overview
 Standard text classification tells you *what* a document is about, but not *why* it matters. This project bridges that gap by combining:
